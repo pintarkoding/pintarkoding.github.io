@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Pintar Koding</title>
+    <link>https://pintarkoding.github.io/tutorial/</link>
+    <description>Recent content in Tutorials on Pintar Koding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 May 2019 20:40:50 +0800</lastBuildDate>
+    
+	<atom:link href="https://pintarkoding.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Perulangan C&#43;&#43;</title>
+      <link>https://pintarkoding.github.io/tutorial/cplus/perulangan/</link>
+      <pubDate>Sat, 18 May 2019 20:40:50 +0800</pubDate>
+      
+      <guid>https://pintarkoding.github.io/tutorial/cplus/perulangan/</guid>
+      <description> Apa ini Saja? </description>
+    </item>
+    
+    <item>
+      <title>Start Laravel Admin</title>
+      <link>https://pintarkoding.github.io/tutorial/laravel-admin/start-laravel-admin/</link>
+      <pubDate>Sat, 18 May 2019 20:40:50 +0800</pubDate>
+      
+      <guid>https://pintarkoding.github.io/tutorial/laravel-admin/start-laravel-admin/</guid>
+      <description> Apa ini Saja? </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Pintar Koding</title>
+    <link>https://pintarkoding.github.io/tags/</link>
+    <description>Recent content in Tags on Pintar Koding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 May 2019 20:40:50 +0800</lastBuildDate>
+    
+	<atom:link href="https://pintarkoding.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>datacentre</title>
+      <link>https://pintarkoding.github.io/tags/datacentre/</link>
+      <pubDate>Sat, 18 May 2019 20:40:50 +0800</pubDate>
+      
+      <guid>https://pintarkoding.github.io/tags/datacentre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deutschland</title>
+      <link>https://pintarkoding.github.io/tags/deutschland/</link>
+      <pubDate>Sat, 18 May 2019 20:40:50 +0800</pubDate>
+      
+      <guid>https://pintarkoding.github.io/tags/deutschland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frankfurt</title>
+      <link>https://pintarkoding.github.io/tags/frankfurt/</link>
+      <pubDate>Sat, 18 May 2019 20:40:50 +0800</pubDate>
+      
+      <guid>https://pintarkoding.github.io/tags/frankfurt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>germany</title>
+      <link>https://pintarkoding.github.io/tags/germany/</link>
+      <pubDate>Sat, 18 May 2019 20:40:50 +0800</pubDate>
+      
+      <guid>https://pintarkoding.github.io/tags/germany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linode</title>
+      <link>https://pintarkoding.github.io/tags/linode/</link>
+      <pubDate>Sat, 18 May 2019 20:40:50 +0800</pubDate>
+      
+      <guid>https://pintarkoding.github.io/tags/linode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>server</title>
+      <link>https://pintarkoding.github.io/tags/server/</link>
+      <pubDate>Sat, 18 May 2019 20:40:50 +0800</pubDate>
+      
+      <guid>https://pintarkoding.github.io/tags/server/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
